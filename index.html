@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deteksi Isyarat JS</title>
+    <!-- TensorFlow.js -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+    <!-- MediaPipe Hands -->
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.min.js" crossorigin="anonymous"></script>
+    <!-- (Opsional) MediaPipe Drawing Utils -->
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js" crossorigin="anonymous"></script>
+    <style>
+        body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; margin-top: 20px; }
+        #liveView { display: flex; flex-direction: column; align-items: center; }
+        #webcam { border: 1px solid #ccc; }
+        #output_text { width: 300px; height: 100px; margin-top: 10px; font-size: 1.2em; }
+        .controls button { margin-top: 10px; padding: 8px 15px; }
+        #loadingStatus { margin-top: 15px; font-style: italic; }
+    </style>
+</head>
+<body>
+    <h1>Deteksi Bahasa Isyarat (TensorFlow.js)</h1>
+    <div id="liveView">
+        <video id="videoInput" width="640" height="480" autoplay playsinline style="display: none;"></video>
+        <canvas id="webcam" width="640" height="480"></canvas>
+        <textarea id="output_text" placeholder="Hasil deteksi..."></textarea>
+        <div class="controls">
+            <button id="startButton">Mulai Deteksi</button>
+            <button id="stopButton" disabled>Hentikan Deteksi</button>
+        </div>
+        <p id="loadingStatus">Klik "Mulai Deteksi" untuk memuat model dan memulai webcam.</p>
+    </div>
+
+    <!-- Letakkan direktori tfjs_model_output_directory di path yang sama atau sesuaikan path di script -->
+    <script src="script.js"></script>
+</body>
+</html>
