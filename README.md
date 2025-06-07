@@ -8,7 +8,7 @@ Proyek ini hadir untuk menjembatani hambatan yang dialami oleh para penyandang t
 
 - Learning Path Documentation
   - Frontend & Backend Documentation
-  - Machine Learning Documentation
+  - [Machine Learning Documentation](https://github.com/CC25CF093/CC25CF093/tree/ML-Path)
 
 ### Capstone Project Team
 
