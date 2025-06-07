@@ -7,7 +7,7 @@ Proyek ini hadir untuk menjembatani hambatan yang dialami oleh para penyandang t
 ### Project Documentation
 
 - Learning Path Documentation
-  - Frontend & Backend Documentation
+  - [Frontend & Backend Documentation](https://github.com/CC25CF093/CC25CF093/tree/FEBE-Path)
   - [Machine Learning Documentation](https://github.com/CC25CF093/CC25CF093/tree/ML-Path)
 
 ### Capstone Project Team
