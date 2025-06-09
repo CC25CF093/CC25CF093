@@ -10,7 +10,13 @@ Proyek ini hadir untuk menjembatani hambatan yang dialami oleh para penyandang t
   - [Frontend Documentation](https://github.com/CC25CF093/tabir-frontend-services)
   - [Backend Documentation](https://github.com/CC25CF093/tabir-backend-service)
   - [Machine Learning Documentation](https://github.com/CC25CF093/CC25CF093/tree/ML-Path)
+  
+- Deployment
+  - [TaBir Deployment Page](https://grand-kulfi-a0df36.netlify.app/)
 
+- Ui/Ux Mockup
+  - [TaBir Figma](https://www.figma.com/design/XUnE5Tj6ozI2xO0AWq7z7P/Tabir?node-id=25-53)
+    
 ### Capstone Project Team
 
 Meet our amazing team behind this amazing project:
