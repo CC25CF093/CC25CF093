@@ -7,7 +7,7 @@ Proyek ini hadir untuk menjembatani hambatan yang dialami oleh para penyandang t
 ### Project Documentation
 
 - Learning Path Documentation
-  - [Frontend Documentation](https://github.com/CC25CF093/CC25CF093/tree/FEBE-Path)
+  - [Frontend Documentation](https://github.com/CC25CF093/tabir-frontend-services)
   - [Backend Documentation](https://github.com/CC25CF093/tabir-backend-service)
   - [Machine Learning Documentation](https://github.com/CC25CF093/CC25CF093/tree/ML-Path)
 
