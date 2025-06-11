@@ -7,14 +7,14 @@ Proyek ini hadir untuk menjembatani hambatan yang dialami oleh para penyandang t
 ### Project Documentation
 
 - Learning Path Documentation
-  - [Frontend Documentation](https://github.com/CC25CF093/tabir-frontend-services)
+  - [Frontend Documentation](https://github.com/CC25CF093/tabir-frontend-service)
   - [Backend Documentation](https://github.com/CC25CF093/tabir-backend-service)
   - [Machine Learning Documentation](https://github.com/CC25CF093/CC25CF093/tree/ML-Path)
   
 - Deployment
-  - [TaBir Deployment Page](https://grand-kulfi-a0df36.netlify.app/)
+  - [TaBir Deployment Page](https://melodic-fudge-91078b.netlify.app/)
 
-- Ui/Ux Mockup
+- UI/UX Mockup
   - [TaBir Figma](https://www.figma.com/design/XUnE5Tj6ozI2xO0AWq7z7P/Tabir?node-id=25-53)
     
 ### Capstone Project Team
@@ -29,4 +29,6 @@ Meet our amazing team behind this amazing project:
 | Arya Rizki Andaru      | Frontend & Backend| FC211D5Y1113    | FC-08       | Universitas Indraprasta PGRI                             | [GitHub](https://github.com/xryar)     |
 | Reza Nugraha           | Frontend & Backend| FC211D5Y1834    | FC-44       | Universitas Indraprasta PGRI | [GitHub](https://github.com/rezanugraha105) |
 | Dea Ramanda            | Frontend & Backend| FC193D5X2402    | FC-16       | Universitas Bina Sarana Informatika | [GitHub](https://github.com/adnamard)       |
+
+For any inquiries, please email us at cc25cf093@gmail.com.
 
