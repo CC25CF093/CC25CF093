@@ -1,15 +1,26 @@
-# Tabir: Penerjemah Bahasa Isyarat Otomatis Berbasis AI
+# 🧠 Machine Learning - Real-time Sign Language Detection
 
-Kehidupan sosial manusia didasari oleh komunikasi, namun sayangnya masih banyak orang yang memiliki keterbatasan dalam berkomunikasi, seperti yang dialami oleh para penyandang tunarungu. Hambatan yang dialami oleh mereka ini berdampak pada aksesibilitas pada pendidikan dan pekerjaan.
+Model ini dikembangkan untuk mengenali bahasa isyarat tangan secara **real-time** melalui kamera laptop. Fokus utama pengembangan adalah pada efisiensi, kecepatan inferensi, dan kompatibilitas di browser.
 
-Proyek ini hadir untuk menjembatani hambatan yang dialami oleh para penyandang tunarungu dengan kemampuan potensial yang dimilikinya. Proyek berupa sebuah sistem penerjemah bahasa isyarat berbasis Artificial Intelligence (AI) dengan pendekatan Computer Vision dan Deep Learning yang dinamakan Tabir (Tangan Bicara).
+---
 
-### Project Documentation
+## 📦 Dataset
 
-- Learning Path Documentation
-  - Frontend & Backend Documentation
-  - Machine Learning Documentation
+Dataset yang digunakan bisa diakses melalui Google Drive berikut:  
+👉 [Sign Language Dataset - Google Drive](https://drive.google.com/drive/folders/1g88HrZxbEy0bHLLBPuzLSj6SVXkDZqfp?usp=sharing)
 
-### Capstone Project Team
+Dataset ini berisi gambar gesture tangan dalam berbagai posisi dan label, yang telah diproses dan dibersihkan untuk keperluan pelatihan model.
 
-Meet our amazing team behind this amazing project:
+---
+
+## 🧠 Model Arsitektur
+
+Model ini dibangun menggunakan **MobileNetV2** sebagai feature extractor, karena:
+
+- Ringan dan cepat, cocok untuk aplikasi berbasis web.
+- Performa bagus untuk klasifikasi gambar sederhana.
+- Bisa langsung diintegrasikan ke **TensorFlow.js** tanpa konversi berat.
+
+Model dilatih dengan TensorFlow dan dikonversi ke **TensorFlow.js format (.json + .bin)** agar bisa langsung digunakan di browser.
+
+---
