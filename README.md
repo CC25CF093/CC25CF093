@@ -1,4 +1,4 @@
-# Tabir: Penerjemah Bahasa Isyarat Otomatis Berbasis AI
+# TaBir: Penerjemah Bahasa Isyarat Otomatis Berbasis AI
 
 Kehidupan sosial manusia didasari oleh komunikasi, namun sayangnya masih banyak orang yang memiliki keterbatasan dalam berkomunikasi, seperti yang dialami oleh para penyandang tunarungu. Hambatan yang dialami oleh mereka ini berdampak pada aksesibilitas pada pendidikan dan pekerjaan.
 
